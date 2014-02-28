@@ -44,7 +44,7 @@
         UIBarButtonItem *backItem = [[UIBarButtonItem alloc] initWithCustomView:backButton];
         [[self navigationItem] setLeftBarButtonItem:backItem];
         
-        [[self navigationItem] setTitle:@"RFduino Temp"];
+        [[self navigationItem] setTitle:@"RFduino Thermo"];
     }
     return self;
 }
